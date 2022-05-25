@@ -1,7 +1,3 @@
-//Fait par : Céline Robard
-//Le : 01/09/2021
-
-//Examen mi-session : exercice 1
 
 class Article{
 
